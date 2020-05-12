@@ -1,984 +1,669 @@
 {
-    "date": "2020-05-12 20:38:04.426675",
+    "date": "2020-05-12 21:38:43.364855",
     "proxies": [
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 7220,
-            "ip": "103.240.206.152",
-            "port": "55740"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 26220,
-            "ip": "190.203.239.199",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 540,
-            "ip": "119.81.199.80",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 540,
-            "ip": "119.81.199.82",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 540,
-            "ip": "119.81.71.27",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 9810,
-            "ip": "210.140.219.111",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 504,
-            "google_total_time": 21080,
-            "ip": "91.219.56.221",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 1130,
-            "ip": "169.57.157.146",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 18690,
-            "ip": "186.86.247.169",
-            "port": "39168"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 1030,
-            "ip": "37.10.71.217",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 760,
-            "ip": "185.58.225.81",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 800,
-            "ip": "104.128.228.185",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 840,
-            "ip": "45.58.52.181",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 850,
-            "ip": "66.55.64.18",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 530,
-            "ip": "139.180.128.249",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 4030,
-            "ip": "201.55.160.99",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 800,
-            "ip": "74.91.30.106",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 1340,
-            "ip": "185.185.41.148",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 580,
-            "ip": "172.105.55.233",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 840,
-            "ip": "172.245.105.215",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 11270,
-            "ip": "111.92.164.249",
-            "port": "55184"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 27740,
-            "ip": "54.39.148.240",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 940,
-            "ip": "51.91.254.196",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 850,
-            "ip": "162.250.190.92",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 890,
-            "ip": "65.155.71.194",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 810,
-            "ip": "188.226.141.61",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 17070,
-            "ip": "36.84.84.18",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 520,
-            "ip": "119.81.199.83",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 5610,
-            "ip": "176.36.239.233",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 1190,
-            "ip": "159.8.114.34",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 12130,
-            "ip": "168.181.62.74",
-            "port": "36928"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 13460,
-            "ip": "46.146.197.19",
-            "port": "48785"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 13670,
-            "ip": "61.19.40.50",
-            "port": "33665"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1050,
-            "ip": "102.129.249.120",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 1140,
-            "ip": "159.8.114.37",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 13580,
-            "ip": "94.153.169.22",
-            "port": "59177"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 12110,
-            "ip": "181.191.4.163",
-            "port": "36558"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 16610,
-            "ip": "94.244.28.246",
-            "port": "31280"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 11180,
-            "ip": "37.58.212.180",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 16580,
-            "ip": "45.182.156.236",
-            "port": "52668"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 23950,
-            "ip": "190.214.45.18",
-            "port": "46465"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 9530,
-            "ip": "77.85.169.151",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 790,
-            "ip": "96.62.169.138",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 740,
-            "ip": "144.48.63.223",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 830,
-            "ip": "104.129.41.21",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 820,
-            "ip": "172.245.9.10",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 760,
-            "ip": "23.94.123.74",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 770,
-            "ip": "45.12.110.174",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 800,
-            "ip": "45.58.56.37",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 800,
-            "ip": "45.58.56.226",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 770,
-            "ip": "69.197.191.214",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 780,
-            "ip": "69.30.214.202",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 770,
-            "ip": "69.30.224.166",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 490,
-            "ip": "51.79.147.50",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 750,
-            "ip": "98.126.219.101",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 790,
-            "ip": "185.22.153.209",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 950,
-            "ip": "185.158.248.110",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 750,
-            "ip": "185.22.174.178",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 940,
-            "ip": "145.239.88.144",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 1110,
-            "ip": "185.99.133.85",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 780,
-            "ip": "185.175.56.107",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 940,
-            "ip": "213.188.29.141",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 890,
-            "ip": "185.158.249.102",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 740,
-            "ip": "185.185.40.188",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 740,
-            "ip": "195.231.65.251",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 750,
-            "ip": "185.112.157.93",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 750,
-            "ip": "217.61.15.211",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 910,
-            "ip": "195.181.210.142",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 720,
-            "ip": "185.158.251.33",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 840,
-            "ip": "216.189.157.167",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 750,
-            "ip": "80.211.233.185",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 700,
-            "ip": "94.177.233.21",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 760,
-            "ip": "181.214.88.200",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 780,
-            "ip": "81.22.255.139",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 850,
-            "ip": "216.189.150.165",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 690,
-            "ip": "185.139.238.184",
-            "port": "31282"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 1410,
-            "ip": "119.81.199.81",
-            "port": "8123"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1170,
-            "ip": "217.160.27.243",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 14710,
-            "ip": "178.151.205.154",
-            "port": "34026"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 7720,
-            "ip": "125.26.99.212",
-            "port": "51591"
-        },
-        {
-            "google_error": "no",
-            "google_status": 500,
-            "google_total_time": 1590,
-            "ip": "188.120.232.181",
-            "port": "8118"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2570,
-            "ip": "103.119.145.138",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 27240,
-            "ip": "176.98.76.203",
-            "port": "36651"
-        },
-        {
-            "google_error": "no",
-            "google_status": 503,
-            "google_total_time": 880,
-            "ip": "91.226.212.131",
-            "port": "1182"
-        },
-        {
-            "google_error": "no",
-            "google_status": 503,
-            "google_total_time": 3080,
-            "ip": "79.137.123.155",
-            "port": "3129"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 10800,
-            "ip": "71.183.100.116",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 503,
-            "google_total_time": 640,
-            "ip": "202.187.30.167",
-            "port": "1080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2270,
-            "ip": "41.60.233.173",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 3150,
-            "ip": "41.65.168.89",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2590,
-            "ip": "170.79.95.156",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2360,
-            "ip": "62.140.252.21",
-            "port": "8081"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 920,
-            "ip": "36.234.124.163",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 503,
-            "google_total_time": 2790,
-            "ip": "36.79.119.233",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2610,
-            "ip": "190.23.209.97",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2700,
-            "ip": "78.109.234.58",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 13170,
-            "ip": "1.0.184.54",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 680,
-            "ip": "36.88.44.41",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 3340,
-            "ip": "181.67.177.175",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 790,
-            "ip": "171.7.10.84",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1410,
-            "ip": "45.77.203.104",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 3570,
-            "ip": "125.162.58.190",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 9480,
-            "ip": "87.107.77.147",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 770,
-            "ip": "1.10.224.124",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1510,
-            "ip": "183.89.14.151",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 890,
-            "ip": "113.170.0.118",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 4950,
-            "ip": "177.66.53.254",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 750,
-            "ip": "36.90.209.124",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 3680,
-            "ip": "180.242.9.47",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2180,
-            "ip": "202.9.122.73",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 600,
-            "ip": "101.255.66.138",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1050,
-            "ip": "89.40.125.238",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 670,
-            "ip": "101.109.221.175",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 730,
-            "ip": "36.77.51.146",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 8980,
-            "ip": "189.171.82.76",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1860,
-            "ip": "197.54.85.83",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 690,
-            "ip": "36.90.58.186",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 650,
-            "ip": "36.90.93.233",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1500,
-            "ip": "183.88.178.129",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 810,
-            "ip": "118.69.50.154",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 28470,
+            "google_total_time": 11580,
             "ip": "144.121.248.114",
             "port": "8080"
         },
         {
             "google_error": "no",
-            "google_status": 504,
-            "google_total_time": 930,
-            "ip": "81.95.230.211",
-            "port": "3128"
+            "google_status": 200,
+            "google_total_time": 7860,
+            "ip": "200.54.194.12",
+            "port": "53281"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 27450,
-            "ip": "117.1.16.131",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 429,
-            "google_total_time": 1550,
-            "ip": "192.41.71.221",
-            "port": "3128"
+            "google_total_time": 10080,
+            "ip": "85.10.219.102",
+            "port": "1080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 1250,
-            "ip": "167.71.246.71",
-            "port": "8080"
+            "google_total_time": 8170,
+            "ip": "144.76.214.158",
+            "port": "1080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 970,
-            "ip": "203.202.245.62",
+            "google_total_time": 1260,
+            "ip": "150.66.1.137",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 502,
+            "google_total_time": 16140,
+            "ip": "188.40.183.191",
+            "port": "1080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 403,
+            "google_total_time": 870,
+            "ip": "169.57.1.84",
+            "port": "8123"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 7740,
+            "ip": "159.138.20.247",
             "port": "80"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 24340,
+            "google_total_time": 11390,
             "ip": "200.89.178.241",
             "port": "80"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 2110,
-            "ip": "181.118.167.104",
-            "port": "80"
+            "google_total_time": 13310,
+            "ip": "88.99.10.253",
+            "port": "1080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 1140,
-            "ip": "162.243.108.129",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 3130,
-            "ip": "117.252.211.25",
-            "port": "55443"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1340,
+            "google_total_time": 1230,
             "ip": "192.41.13.71",
             "port": "3128"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 1360,
-            "ip": "192.41.71.204",
+            "google_total_time": 8950,
+            "ip": "125.26.6.61",
+            "port": "60121"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 840,
+            "ip": "134.209.29.120",
             "port": "3128"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 1500,
-            "ip": "92.222.180.156",
+            "google_total_time": 570,
+            "ip": "128.199.202.122",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1680,
+            "ip": "212.220.216.70",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 2020,
-            "ip": "203.202.245.58",
+            "google_total_time": 730,
+            "ip": "125.59.223.27",
+            "port": "8380"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1070,
+            "ip": "159.203.61.169",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 9320,
+            "ip": "155.93.108.170",
+            "port": "37414"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1170,
+            "ip": "95.179.189.250",
             "port": "80"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 18930,
-            "ip": "183.89.90.142",
-            "port": "8213"
+            "google_total_time": 28610,
+            "ip": "148.251.153.6",
+            "port": "1080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 3440,
-            "ip": "66.96.237.86",
-            "port": "8080"
+            "google_total_time": 16710,
+            "ip": "159.138.1.185",
+            "port": "80"
         },
         {
             "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 9960,
-            "ip": "177.12.84.151",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 13960,
-            "ip": "183.88.38.92",
-            "port": "8213"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 11330,
-            "ip": "102.130.114.107",
+            "google_status": 500,
+            "google_total_time": 4059,
+            "ip": "92.51.149.81",
             "port": "3128"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 12880,
-            "ip": "183.88.212.141",
+            "google_total_time": 14680,
+            "ip": "188.40.183.184",
+            "port": "1080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 1530,
+            "ip": "192.41.71.199",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 980,
+            "ip": "198.199.86.11",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 1790,
-            "ip": "191.235.70.157",
+            "google_total_time": 860,
+            "ip": "138.68.240.218",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 6280,
+            "ip": "181.129.127.234",
+            "port": "57985"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 850,
+            "ip": "138.68.60.8",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 403,
+            "google_total_time": 1090,
+            "ip": "169.57.157.148",
+            "port": "8123"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 16500,
+            "ip": "85.10.219.96",
+            "port": "1080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1080,
+            "ip": "209.97.150.167",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 12190,
+            "ip": "188.40.183.190",
+            "port": "1080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 16010,
+            "ip": "213.6.227.38",
+            "port": "54796"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 880,
+            "ip": "36.84.84.18",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 930,
+            "ip": "63.82.52.254",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 500,
+            "google_total_time": 920,
+            "ip": "109.174.19.134",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 810,
+            "ip": "167.71.5.83",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 750,
+            "ip": "139.59.1.14",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 5810,
+            "ip": "45.236.91.20",
+            "port": "8880"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 14390,
+            "ip": "91.67.240.45",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 22830,
+            "ip": "189.57.62.146",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 500,
+            "google_total_time": 4040,
+            "ip": "47.244.50.194",
+            "port": "8081"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 700,
+            "ip": "36.90.93.148",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 2380,
+            "ip": "181.39.44.242",
+            "port": "999"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 900,
+            "ip": "14.207.78.183",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 7400,
+            "ip": "185.26.33.244",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 5370,
+            "ip": "202.9.122.82",
+            "port": "53281"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 2760,
+            "ip": "105.216.35.171",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1750,
+            "ip": "46.191.132.15",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 7650,
+            "ip": "45.242.30.71",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1680,
+            "ip": "185.64.208.43",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 540,
+            "ip": "139.180.190.124",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1010,
+            "ip": "102.129.249.120",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 500,
+            "google_total_time": 750,
+            "ip": "45.76.34.27",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 403,
+            "google_total_time": 1130,
+            "ip": "159.8.114.37",
+            "port": "8123"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 10060,
+            "ip": "88.198.33.232",
+            "port": "1080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 503,
+            "google_total_time": 500,
+            "ip": "34.87.117.242",
+            "port": "8118"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 6030,
+            "ip": "110.172.160.66",
+            "port": "47845"
+        },
+        {
+            "google_error": "no",
+            "google_status": 503,
+            "google_total_time": 1050,
+            "ip": "34.92.94.5",
+            "port": "8123"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 30060,
+            "ip": "212.42.113.240",
+            "port": "49297"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 20350,
+            "ip": "170.82.231.26",
+            "port": "50706"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 3910,
+            "ip": "1.2.169.101",
+            "port": "47477"
+        },
+        {
+            "google_error": "no",
+            "google_status": 503,
+            "google_total_time": 1920,
+            "ip": "51.89.4.140",
+            "port": "8118"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 3000,
+            "ip": "1.10.186.114",
+            "port": "32577"
+        },
+        {
+            "google_error": "no",
+            "google_status": 503,
+            "google_total_time": 470,
+            "ip": "150.109.53.181",
+            "port": "8118"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 13540,
+            "ip": "186.15.233.218",
+            "port": "45999"
+        },
+        {
+            "google_error": "no",
+            "google_status": 403,
+            "google_total_time": 470,
+            "ip": "119.81.199.82",
+            "port": "8123"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 3480,
+            "ip": "118.173.232.5",
+            "port": "34413"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 2810,
+            "ip": "35.220.131.188",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 13710,
+            "ip": "168.232.188.209",
+            "port": "40968"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 14740,
+            "ip": "188.40.183.187",
+            "port": "1080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 870,
+            "ip": "139.99.105.5",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 500,
+            "google_total_time": 520,
+            "ip": "47.90.54.45",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 503,
+            "google_total_time": 2870,
+            "ip": "194.156.231.151",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 2900,
+            "ip": "103.79.35.163",
+            "port": "39049"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1310,
+            "ip": "108.61.75.43",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 480,
+            "ip": "45.32.117.243",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1510,
+            "ip": "195.158.232.180",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 4390,
+            "ip": "125.167.12.183",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 5790,
+            "ip": "151.234.55.125",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 27680,
+            "ip": "160.0.203.81",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1190,
+            "ip": "51.158.98.37",
+            "port": "5836"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1110,
+            "ip": "51.15.224.194",
+            "port": "5836"
+        },
+        {
+            "google_error": "no",
+            "google_status": 502,
+            "google_total_time": 880,
+            "ip": "194.5.152.89",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 15910,
+            "ip": "89.204.214.142",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 17800,
+            "ip": "195.154.34.69",
+            "port": "5836"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 3470,
+            "ip": "152.32.64.76",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 15630,
+            "ip": "124.122.166.16",
+            "port": "8213"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 6440,
+            "ip": "118.99.94.157",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 13620,
+            "ip": "185.103.181.2",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 500,
+            "google_total_time": 11090,
+            "ip": "121.37.164.4",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 17930,
+            "ip": "93.170.217.51",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 23450,
+            "ip": "31.220.62.27",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1070,
+            "ip": "163.172.174.44",
+            "port": "5836"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 800,
+            "ip": "139.180.185.118",
             "port": "8080"
         },
         {
@@ -991,527 +676,499 @@
         {
             "google_error": "no",
             "google_status": 429,
-            "google_total_time": 5360,
-            "ip": "103.109.247.26",
-            "port": "5758"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 21580,
-            "ip": "1.10.133.112",
+            "google_total_time": 3440,
+            "ip": "180.183.96.22",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 4690,
-            "ip": "207.148.97.226",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 429,
-            "google_total_time": 1050,
-            "ip": "45.32.53.40",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2590,
-            "ip": "114.5.195.226",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 429,
-            "google_total_time": 3250,
-            "ip": "212.57.22.178",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 13940,
-            "ip": "95.71.37.153",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 500,
-            "google_total_time": 30700,
-            "ip": "194.5.192.237",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 22550,
-            "ip": "139.162.22.137",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 18680,
+            "google_total_time": 21560,
             "ip": "144.217.76.177",
             "port": "3128"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 2350,
-            "ip": "34.222.72.13",
-            "port": "3128"
+            "google_total_time": 8340,
+            "ip": "117.121.213.107",
+            "port": "9999"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 18400,
-            "ip": "169.255.126.211",
-            "port": "60129"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 630,
-            "ip": "203.162.21.216",
-            "port": "8000"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 23970,
-            "ip": "94.182.48.146",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 30270,
-            "ip": "8.9.30.23",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 429,
-            "google_total_time": 6160,
-            "ip": "36.65.184.186",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 2050,
-            "ip": "165.22.41.190",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1300,
-            "ip": "136.244.97.161",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 23900,
-            "ip": "180.247.45.161",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1010,
-            "ip": "116.202.163.57",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 11610,
-            "ip": "103.105.77.48",
-            "port": "8181"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 420,
-            "ip": "45.32.118.146",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 640,
-            "ip": "217.61.6.4",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 10890,
-            "ip": "159.192.149.80",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 404,
-            "google_total_time": 11480,
-            "ip": "185.128.104.65",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 30010,
-            "ip": "185.15.101.110",
-            "port": "32708"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 15800,
-            "ip": "183.88.101.251",
-            "port": "8213"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 5410,
-            "ip": "91.212.64.229",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 23410,
-            "ip": "104.196.135.23",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1050,
-            "ip": "178.128.243.121",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 429,
-            "google_total_time": 10010,
-            "ip": "180.183.27.126",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 429,
-            "google_total_time": 1460,
-            "ip": "198.204.230.70",
-            "port": "443"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 7640,
-            "ip": "103.112.253.100",
-            "port": "58449"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 17700,
-            "ip": "110.44.120.144",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 410,
-            "ip": "165.22.50.158",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 13680,
-            "ip": "139.5.29.51",
-            "port": "39241"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 17610,
-            "ip": "134.209.197.214",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 7410,
-            "ip": "124.122.166.16",
-            "port": "8213"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 990,
-            "ip": "185.13.39.167",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1230,
-            "ip": "3.211.17.212",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 28710,
-            "ip": "169.159.130.182",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 503,
-            "google_total_time": 11080,
-            "ip": "212.129.1.116",
-            "port": "5836"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1370,
-            "ip": "144.202.5.194",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 16309,
+            "google_total_time": 9800,
             "ip": "178.128.62.13",
             "port": "8080"
         },
         {
             "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 1200,
-            "ip": "3.21.154.12",
+            "google_status": 429,
+            "google_total_time": 780,
+            "ip": "139.180.190.74",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 24420,
-            "ip": "65.132.198.102",
+            "google_total_time": 3950,
+            "ip": "183.88.32.187",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 23310,
-            "ip": "212.126.102.142",
-            "port": "58695"
-        },
-        {
-            "google_error": "no",
-            "google_status": 503,
-            "google_total_time": 3440,
-            "ip": "51.158.153.72",
-            "port": "5836"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 26840,
-            "ip": "155.93.240.101",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 19790,
-            "ip": "217.196.81.221",
-            "port": "46500"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 11510,
-            "ip": "51.158.72.65",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 8360,
-            "ip": "154.0.15.166",
-            "port": "46547"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 830,
-            "ip": "92.38.135.142",
-            "port": "3128"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 15890,
+            "google_total_time": 2830,
             "ip": "41.63.0.41",
             "port": "8888"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 1020,
-            "ip": "136.244.98.66",
+            "google_total_time": 11090,
+            "ip": "180.180.175.70",
+            "port": "59692"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 15920,
+            "ip": "34.77.63.53",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 1240,
+            "ip": "209.250.253.136",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 403,
+            "google_total_time": 790,
+            "ip": "217.61.6.4",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 2700,
-            "ip": "78.186.110.9",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 12350,
-            "ip": "118.173.233.150",
-            "port": "35963"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 8270,
-            "ip": "93.174.94.80",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 200,
-            "google_total_time": 12460,
-            "ip": "185.86.4.55",
+            "google_total_time": 9390,
+            "ip": "89.208.35.81",
             "port": "3128"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 1790,
-            "ip": "45.76.185.146",
-            "port": "8080"
-        },
-        {
-            "google_error": "no",
-            "google_status": 503,
-            "google_total_time": 29870,
-            "ip": "163.172.122.56",
+            "google_total_time": 10840,
+            "ip": "173.82.177.212",
             "port": "5836"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 3550,
+            "google_total_time": 1290,
+            "ip": "34.222.244.15",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1070,
+            "ip": "185.21.217.20",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 17000,
+            "ip": "203.150.115.155",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 14830,
+            "ip": "118.172.32.5",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 3090,
+            "ip": "36.68.152.194",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 480,
+            "ip": "139.180.145.220",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 15520,
+            "ip": "94.23.196.68",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1060,
+            "ip": "116.202.163.57",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 10260,
+            "ip": "18.237.202.238",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 620,
+            "ip": "203.162.21.216",
+            "port": "8000"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 26260,
+            "ip": "45.188.184.70",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 11650,
+            "ip": "190.128.140.150",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 7850,
             "ip": "103.46.225.67",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 16320,
-            "ip": "82.135.148.201",
-            "port": "8081"
+            "google_total_time": 2750,
+            "ip": "149.28.150.203",
+            "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 16950,
+            "google_total_time": 18160,
+            "ip": "70.169.145.164",
+            "port": "48678"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 6220,
+            "ip": "190.61.47.130",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 17200,
+            "ip": "14.207.76.44",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1110,
+            "ip": "136.244.97.161",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 670,
+            "ip": "149.28.143.141",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 5060,
+            "ip": "104.238.148.127",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 12460,
+            "ip": "41.66.75.117",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 503,
+            "google_total_time": 1120,
+            "ip": "195.154.60.181",
+            "port": "5836"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 420,
+            "ip": "165.22.240.20",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 7190,
+            "ip": "183.111.227.124",
+            "port": "9999"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 970,
+            "ip": "92.38.135.142",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1010,
+            "ip": "163.172.180.118",
+            "port": "5836"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 19310,
+            "ip": "128.199.179.30",
+            "port": "47862"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 10180,
+            "ip": "113.53.83.210",
+            "port": "39695"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 2350,
+            "ip": "144.217.139.56",
+            "port": "5007"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 4120,
+            "ip": "178.128.24.20",
+            "port": "53"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 4880,
+            "ip": "82.200.233.4",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 10720,
+            "ip": "24.172.34.114",
+            "port": "40675"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1030,
+            "ip": "136.244.98.66",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 990,
+            "ip": "139.180.216.237",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 9200,
+            "ip": "128.201.93.70",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 16280,
+            "ip": "110.36.200.245",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 15590,
+            "ip": "164.132.98.80",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 19510,
             "ip": "183.88.74.127",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 6720,
-            "ip": "197.211.45.4",
-            "port": "10000"
-        },
-        {
-            "google_error": "no",
-            "google_status": 500,
-            "google_total_time": 710,
-            "ip": "109.195.131.124",
+            "google_total_time": 18610,
+            "ip": "93.174.94.80",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 17880,
-            "ip": "176.116.57.51",
-            "port": "8080"
+            "google_total_time": 1040,
+            "ip": "178.128.243.121",
+            "port": "3128"
         },
         {
             "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 320,
-            "ip": "68.183.225.223",
+            "google_status": 200,
+            "google_total_time": 1350,
+            "ip": "149.28.33.39",
             "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 6340,
-            "ip": "103.213.116.199",
+            "google_total_time": 13380,
+            "ip": "45.236.104.85",
             "port": "8080"
         },
         {
             "google_error": "no",
-            "google_status": 407,
-            "google_total_time": 680,
-            "ip": "104.160.14.28",
-            "port": "12345"
+            "google_status": 200,
+            "google_total_time": 16900,
+            "ip": "45.76.111.212",
+            "port": "3128"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 950,
-            "ip": "200.195.173.68",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 502,
-            "google_total_time": 10800,
-            "ip": "39.137.69.6",
-            "port": "80"
-        },
-        {
-            "google_error": "no",
-            "google_status": 403,
-            "google_total_time": 910,
-            "ip": "221.122.91.76",
-            "port": "9480"
+            "google_total_time": 9310,
+            "ip": "94.182.48.146",
+            "port": "8080"
         },
         {
             "google_error": "no",
             "google_status": 503,
-            "google_total_time": 700,
-            "ip": "95.216.27.155",
-            "port": "8118"
+            "google_total_time": 11900,
+            "ip": "103.252.117.230",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 9470,
+            "ip": "102.130.114.107",
+            "port": "3128"
         },
         {
             "google_error": "no",
             "google_status": 200,
-            "google_total_time": 10580,
-            "ip": "195.154.58.72",
-            "port": "5836"
+            "google_total_time": 22730,
+            "ip": "223.206.53.135",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 2990,
+            "ip": "200.73.129.158",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1260,
+            "ip": "3.21.154.12",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 5610,
+            "ip": "188.165.16.230",
+            "port": "3129"
+        },
+        {
+            "google_error": "no",
+            "google_status": 429,
+            "google_total_time": 1690,
+            "ip": "45.77.106.180",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 10060,
+            "ip": "190.198.87.53",
+            "port": "8080"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 1120,
+            "ip": "34.209.64.106",
+            "port": "3128"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 820,
+            "ip": "184.154.143.61",
+            "port": "80"
+        },
+        {
+            "google_error": "no",
+            "google_status": 200,
+            "google_total_time": 9010,
+            "ip": "191.37.183.209",
+            "port": "60139"
+        },
+        {
+            "google_error": "no",
+            "google_status": 407,
+            "google_total_time": 630,
+            "ip": "104.129.194.96",
+            "port": "8800"
+        },
+        {
+            "google_error": "no",
+            "google_status": 503,
+            "google_total_time": 710,
+            "ip": "79.137.123.252",
+            "port": "3130"
+        },
+        {
+            "google_error": "no",
+            "google_status": 403,
+            "google_total_time": 510,
+            "ip": "188.138.235.56",
+            "port": "3128"
         }
     ]
 }
