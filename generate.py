@@ -187,7 +187,7 @@ if __name__ == "__main__":
     
     sorted_data = filtered_data
 
-    new_data = list(filter(lambda x: x['google_error'] == 'no', sorted_data))
+    new_data = list(filter(lambda x: x['youtube_status'] == 200 and x['youtube_total_time'] < 20000 , sorted_data))
     # sorting by the number of successfull queries
     to_json = {
                'date': str(datetime.utcnow()),
