@@ -1,2 +1,2 @@
 # proxylist-
-proxylist.json update every 5 minutes
+proxy.json update every 5 minutes
