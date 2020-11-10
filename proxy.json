@@ -1,40 +1,61 @@
 {
-    "date": "2020-11-10 14:32:13.120190",
+    "date": "2020-11-10 14:37:52.087772",
     "proxies": [
-        {
-            "ip": "35.180.161.13",
-            "port": "80",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 5640
-        },
         {
             "ip": "18.231.104.14",
             "port": "3629",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 4650
+            "youtube_total_time": 4670
         },
         {
             "ip": "52.77.15.111",
             "port": "80",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 180
+            "youtube_total_time": 500
+        },
+        {
+            "ip": "139.162.55.88",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 10920
+        },
+        {
+            "ip": "85.25.15.202",
+            "port": "3838",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 8600
         },
         {
             "ip": "183.102.43.235",
             "port": "80",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 14720
+            "youtube_total_time": 17710
+        },
+        {
+            "ip": "110.93.214.37",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 19240
+        },
+        {
+            "ip": "116.58.232.151",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 7410
         },
         {
             "ip": "129.211.124.160",
             "port": "8081",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 2160
+            "youtube_total_time": 1130
         }
     ]
 }
