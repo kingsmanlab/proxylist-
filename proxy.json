@@ -1,47 +1,54 @@
 {
-    "date": "2020-11-10 10:57:38.076539",
+    "date": "2020-11-10 11:03:17.145793",
     "proxies": [
         {
-            "ip": "51.75.147.44",
+            "ip": "85.25.15.211",
+            "port": "3838",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 13340
+        },
+        {
+            "ip": "1.255.48.197",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 2090
+        },
+        {
+            "ip": "69.28.62.166",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 19830
+            "youtube_total_time": 2940
         },
         {
-            "ip": "45.175.182.46",
+            "ip": "103.3.79.42",
             "port": "8080",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 9790
+            "youtube_total_time": 11680
         },
         {
-            "ip": "14.192.31.4",
-            "port": "50838",
+            "ip": "34.86.94.29",
+            "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 7430
+            "youtube_total_time": 14300
         },
         {
-            "ip": "113.53.83.212",
-            "port": "44664",
+            "ip": "79.139.56.97",
+            "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 8840
-        },
-        {
-            "ip": "94.139.174.122",
-            "port": "8080",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 12470
+            "youtube_total_time": 5930
         },
         {
             "ip": "176.235.99.39",
             "port": "9090",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 1310
+            "youtube_total_time": 1320
         }
     ]
 }
