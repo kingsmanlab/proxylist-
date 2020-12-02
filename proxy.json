@@ -1,201 +1,166 @@
 {
-    "date": "2020-12-02 05:37:33.119019",
+    "date": "2020-12-02 05:43:11.067434",
     "proxies": [
+        {
+            "ip": "104.225.190.246",
+            "port": "80",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 3160
+        },
         {
             "ip": "104.225.172.189",
             "port": "80",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 3770
+            "youtube_total_time": 3650
         },
         {
             "ip": "193.56.255.133",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 450
+            "youtube_total_time": 800
         },
         {
             "ip": "185.156.172.122",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 910
-        },
-        {
-            "ip": "104.225.172.169",
-            "port": "8082",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 5870
-        },
-        {
-            "ip": "104.225.190.163",
-            "port": "8082",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 3790
-        },
-        {
-            "ip": "193.239.86.136",
-            "port": "3128",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 300
-        },
-        {
-            "ip": "134.209.128.61",
-            "port": "3128",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 12500
-        },
-        {
-            "ip": "165.138.4.41",
-            "port": "8080",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 12200
-        },
-        {
-            "ip": "159.65.128.214",
-            "port": "8888",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 11080
-        },
-        {
-            "ip": "103.87.170.113",
-            "port": "52314",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 18360
+            "youtube_total_time": 11660
         },
         {
             "ip": "185.236.202.135",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 870
-        },
-        {
-            "ip": "104.225.175.214",
-            "port": "8082",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 6170
-        },
-        {
-            "ip": "92.244.99.229",
-            "port": "3128",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 3080
+            "youtube_total_time": 850
         },
         {
             "ip": "84.247.51.123",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 1540
+            "youtube_total_time": 1390
         },
         {
-            "ip": "104.225.190.246",
-            "port": "80",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 4180
-        },
-        {
-            "ip": "103.143.46.27",
-            "port": "80",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 9480
-        },
-        {
-            "ip": "93.117.72.27",
-            "port": "43631",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 19580
-        },
-        {
-            "ip": "103.1.93.184",
-            "port": "55443",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 15260
-        },
-        {
-            "ip": "51.159.24.172",
-            "port": "3162",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 12070
-        },
-        {
-            "ip": "15.206.50.74",
+            "ip": "193.239.86.136",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 3350
+            "youtube_total_time": 4320
+        },
+        {
+            "ip": "14.207.62.12",
+            "port": "3128",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 4400
+        },
+        {
+            "ip": "36.85.77.70",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 1540
+        },
+        {
+            "ip": "119.42.74.231",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 1830
+        },
+        {
+            "ip": "1.20.217.52",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 12850
+        },
+        {
+            "ip": "96.9.77.71",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 19250
+        },
+        {
+            "ip": "92.244.99.229",
+            "port": "3128",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 3930
+        },
+        {
+            "ip": "68.183.221.156",
+            "port": "32841",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 13960
+        },
+        {
+            "ip": "183.89.119.114",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 17810
         },
         {
             "ip": "152.67.33.163",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 4820
-        },
-        {
-            "ip": "176.9.85.13",
-            "port": "3128",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 2860
-        },
-        {
-            "ip": "118.179.144.62",
-            "port": "8080",
-            "youtube_error": "no",
-            "youtube_status": 200,
-            "youtube_total_time": 16070
+            "youtube_total_time": 4670
         },
         {
             "ip": "202.162.208.11",
             "port": "8080",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 8029
+            "youtube_total_time": 6360
+        },
+        {
+            "ip": "160.202.146.198",
+            "port": "8080",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 2410
         },
         {
             "ip": "213.136.82.120",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 10840
+            "youtube_total_time": 17980
         },
         {
-            "ip": "103.26.54.94",
+            "ip": "165.227.81.160",
+            "port": "10084",
+            "youtube_error": "no",
+            "youtube_status": 200,
+            "youtube_total_time": 9240
+        },
+        {
+            "ip": "95.181.49.26",
             "port": "8080",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 18410
+            "youtube_total_time": 19170
         },
         {
-            "ip": "206.189.163.68",
+            "ip": "182.253.66.206",
             "port": "3128",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 5390
+            "youtube_total_time": 16160
         },
         {
             "ip": "212.22.162.202",
             "port": "80",
             "youtube_error": "no",
             "youtube_status": 200,
-            "youtube_total_time": 800
+            "youtube_total_time": 910
         }
     ]
 }
